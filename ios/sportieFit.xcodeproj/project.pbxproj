@@ -194,7 +194,6 @@
 				955BA66B2DD0BCE81182FFF8 /* Pods-sportieFit-tvOSTests.debug.xcconfig */,
 				E269C42A947BE83618980D67 /* Pods-sportieFit-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
